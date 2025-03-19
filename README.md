@@ -3,6 +3,7 @@
 This app targets people with disabilities by helping them navigate a grocery store efficiently. It takes in grocery items as input and web scrapes the Wegmans website for real-time price and location data. We use a path-finding algorithm to find the most efficient path for the user to take around the store. These results are displayed on an animated graph showing the user navigating through the store and a still graph showing the entire path.
 
 Libraries required:
+
 pip install matplotlib numpy emoji selenium beautifulsoup4 webdriver-manager
 
 How to use:
