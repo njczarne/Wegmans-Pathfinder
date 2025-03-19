@@ -10,3 +10,4 @@ How to use:
 4. After it is done gathering data, the graphs will be automatically displayed
 5. Once you watch the animated graph, you can close it out to see this whole path.
 
+DISCLAIMER: This was a team project and I did not write this whole program
